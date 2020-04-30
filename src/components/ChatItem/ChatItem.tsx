@@ -1,4 +1,4 @@
-import React, { FC, MouseEvent } from 'react'
+import React from 'react'
 import s from './styles.module.css'
 import { Props } from './types'
 import Avatar from '../Avatar'
