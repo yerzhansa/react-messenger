@@ -1,0 +1,6 @@
+.imageWrapper {
+  margin-right: 8px;
+  & img {
+    width: 50px;
+  }
+}
